@@ -1,4 +1,4 @@
-# TRL - Transformer Reinforcement Learning
+# Yet Another (trl) Test Repo, Legendary 0.24.0 version
 
 <div style="text-align: center">
     <img src="https://huggingface.co/datasets/trl-lib/documentation-images/resolve/main/trl_banner_dark.png" alt="TRL Banner">
